@@ -1,10 +1,14 @@
 {
     "name": "gogbog/coingeckoapi",
-    "type": "project",
+    "type": "library",
+    "description": "CoinGecko made easy",
+    "keywords": ["currency","crypto","bitcoin","coin", 'gecko'],
+    "homepage": "https://bubrek.com",
     "authors": [
         {
             "name": "gogbog",
-            "email": "gogbog11@gmail.com"
+            "email": "gogbog11@gmail.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
