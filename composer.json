@@ -1,0 +1,26 @@
+{
+    "name": "gogbog/coingeckoapi",
+    "type": "project",
+    "authors": [
+        {
+            "name": "gogbog",
+            "email": "gogbog11@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "CoinGecko\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "CoinGecko\\Providers\\CoinGeckoServiceProvider"
+            ]
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
