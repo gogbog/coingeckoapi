@@ -2,7 +2,7 @@
     "name": "gogbog/coingeckoapi",
     "type": "library",
     "description": "CoinGecko made easy",
-    "keywords": ["currency","crypto","bitcoin","coin", 'gecko'],
+    "keywords": ["currency","crypto","bitcoin","coin", "gecko"],
     "homepage": "https://bubrek.com",
     "authors": [
         {
